@@ -1,0 +1,15 @@
+/Users/appy/RiderProjects/Martello/bin/Debug/net6.0/Martello
+/Users/appy/RiderProjects/Martello/bin/Debug/net6.0/Martello.deps.json
+/Users/appy/RiderProjects/Martello/bin/Debug/net6.0/Martello.runtimeconfig.json
+/Users/appy/RiderProjects/Martello/bin/Debug/net6.0/Martello.dll
+/Users/appy/RiderProjects/Martello/bin/Debug/net6.0/Martello.pdb
+/Users/appy/RiderProjects/Martello/obj/Debug/net6.0/Martello.csproj.AssemblyReference.cache
+/Users/appy/RiderProjects/Martello/obj/Debug/net6.0/Martello.GeneratedMSBuildEditorConfig.editorconfig
+/Users/appy/RiderProjects/Martello/obj/Debug/net6.0/Martello.AssemblyInfoInputs.cache
+/Users/appy/RiderProjects/Martello/obj/Debug/net6.0/Martello.AssemblyInfo.cs
+/Users/appy/RiderProjects/Martello/obj/Debug/net6.0/Martello.csproj.CoreCompileInputs.cache
+/Users/appy/RiderProjects/Martello/obj/Debug/net6.0/Martello.dll
+/Users/appy/RiderProjects/Martello/obj/Debug/net6.0/refint/Martello.dll
+/Users/appy/RiderProjects/Martello/obj/Debug/net6.0/Martello.pdb
+/Users/appy/RiderProjects/Martello/obj/Debug/net6.0/Martello.genruntimeconfig.cache
+/Users/appy/RiderProjects/Martello/obj/Debug/net6.0/ref/Martello.dll

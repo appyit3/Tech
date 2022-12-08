@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/appy/RiderProjects/Martello/Martello.csproj": {}
+  },
+  "projects": {
+    "/Users/appy/RiderProjects/Martello/Martello.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/appy/RiderProjects/Martello/Martello.csproj",
+        "projectName": "Martello",
+        "projectPath": "/Users/appy/RiderProjects/Martello/Martello.csproj",
+        "packagesPath": "/Users/appy/.nuget/packages/",
+        "outputPath": "/Users/appy/RiderProjects/Martello/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/appy/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
